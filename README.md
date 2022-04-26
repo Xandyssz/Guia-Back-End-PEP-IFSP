@@ -2,7 +2,7 @@
   <a href="https://pep.ifsp.edu.br/">
     <img src="./images/ifsp.png" alt="Guia do Desenvolvedor Back-end" width="352" height="126">
   </a>
-  <h1 align="center">Guia do Desenvolvedor Back-end</h1>
+  <h1 align="center">Guia do Desenvolvedor Back-end - IFSP</h1>
 </p>
 
 ## :dart: O GUIA DESENVOLVEDOR BACK-END - IFSP
