@@ -11,8 +11,6 @@ Abaixo você encontrará conteúdos para te guiar e ajudar no back-end.
 
 ## 📚 ÍNDICE
 
-[🐧 Linux](#-linux) <br>
-[🐵 Git & Github](#-git-&-github) <br>
 [🐺 HTML](#-html) <br>
 [🐱 CSS](#-css) <br>
 [🦁 JavaScript](#-javascript) <br>
