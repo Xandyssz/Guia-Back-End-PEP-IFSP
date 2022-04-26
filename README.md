@@ -19,12 +19,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar no back-end.
 [🐮 C++](#-c-1) <br>
 [🐷 C#](#-c-2) <br>
 [🐯 PHP](#-php) <br>
-[🐴 Node.js](#-node-js) <br>
 [🐔 MongoDB](#-mongodb) <br>
-[🐲 PostgreeSQL](#-postgreesql) <br>
 [🐒 SQL](#-sql) <br>
 [🦏 MySQL](#-mysql) <br>
-[🐙 Estatística](#-estatística) <br>
 [🦚 Padrões de arquitetura](#-padrões-de-arquitetura) <br>
 [📚 Recomendação de livros](#-recomendação-de-livros) <br>
 [🛠️ Ferramentas & Desafios](#-ferramentas-e-desafios) <br>
