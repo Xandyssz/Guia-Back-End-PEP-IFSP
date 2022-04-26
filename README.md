@@ -5,7 +5,7 @@
   <h1 align="center">Guia do Desenvolvedor Back-end - IFSP</h1>
 </p>
 
-## :dart: O GUIA DESENVOLVEDOR BACK-END - IFSP
+## :dart: O GUIA
 
 Abaixo você encontrará conteúdos para te guiar e ajudar no back-end.
 
